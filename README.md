@@ -11,3 +11,6 @@
 | styled-components        | **^4.4**   |
 | typescript               | **3.6**    |
 | antd                     | **4.1.5**  |
+
+## News API
+https://newsapi.org/
